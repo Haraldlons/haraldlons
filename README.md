@@ -11,9 +11,7 @@
 
 - 🌱 I’m currently learning **advanced topics withing software development processes**
 
-- 💬 Ask me about **anything development related**
-
-- 📫 How to reach me **https://www.linkedin.com/in/haraldlons/**
+- 💬 Don't hesitate to ask me about **anything development related**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
