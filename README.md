@@ -9,7 +9,7 @@
 
 - 👯 I’m looking for passionate developers who want to change the future with [Shepherd](https://angel.co/company/shepherd-5/jobs/1363476-full-stack-developer-remote)
 
-- 🌱 I’m currently learning **advanced topics withing software development philosophies**
+- 🌱 I’m currently learning **advanced topics withing software development processes**
 
 - 💬 Ask me about **anything development related**
 
