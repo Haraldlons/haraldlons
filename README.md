@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haraldlons&label=Profile%20views&color=0e75b6&style=flat" alt="haraldlons" /> </p>
 
-- 🔭 I’m currently working on [Shepherd](http://meetshepherd.com/)
+- 🔭 I’m currently working on [Perlo](https://www.perlo.io/))
 
 - ⚡ Fun fact **Led the software team that built the first autonomous racing vehicle in the nordics**
 
-- 👯 I’m looking for passionate developers who want to change the future with [Shepherd](https://angel.co/company/shepherd-5/jobs/1363476-full-stack-developer-remote)
+- 👯 I’m looking for passionate developers who want to change the future with [Perlo](https://www.perlo.io/)
 
 - 🌱 I’m currently learning **advanced topics withing software development processes**
 
