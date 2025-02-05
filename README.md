@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Perlo](https://www.perlo.io/)
 
-- ⚡ Fun fact **Led the software team that built the first autonomous racing vehicle in the nordics**
+- ⚡ Fun fact **Led the software team that built the first [autonomous racing vehicle](https://www.youtube.com/watch?v=siKk7a-x4KU) in the nordics**
 
 - 👯 I’m looking for passionate developers who want to change the future with [Perlo](https://www.perlo.io/)
 
